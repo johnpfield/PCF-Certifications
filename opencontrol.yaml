@@ -1,0 +1,8 @@
+schema_version: "1.0.0"
+name: PCF-Certifications
+metadata:
+  description: "PCF specific certification templates"
+  maintainers:
+    - jfield@pivotal.io
+certifications:
+  - ./PCF-CredHub.yaml
